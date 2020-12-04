@@ -1,0 +1,3 @@
+[submodule "subbo"]
+	path = subbo
+	url = git@github.com:emcake/subbo.git
